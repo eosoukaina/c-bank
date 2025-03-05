@@ -65,4 +65,6 @@ When you run the program, you will be presented with a menu-driven interface:<br
 ## 🤝 Contributions & Feedback 
 🔹 Found a bug? Have suggestions? Open an issue or submit a pull request!<br>
 🔹 Let’s improve C-Bank together! 🚀<br>
-📩 Contact us: medsaberelguelta@gmail.com
+📩 Contact us: 
+- medsaberelguelta@gmail.com <br>
+- soukaina.elhadifi@gmail.com <br>
