@@ -53,16 +53,16 @@ When you run the program, you will be presented with a menu-driven interface:<br
 5️⃣ **Close Account** – Remove an account from the system if the balance is zero. <br>
 6️⃣ **Exit Program** – Safely exit the application. <br>
 
-## 🔥 Why Use C-Bank?<br>
+## 🔥 Why Use C-Bank?
 ✔ Simple & Lightweight – No complex UI, just a fast and functional console app.<br>
 ✔ Data Persistence – Your account details are saved securely even after closing the program.<br>
 ✔ Beginner-Friendly – Ideal for learning C programming, file handling, and basic banking logic.<br>
 
-##💡 Contributors <br>
+## 💡 Contributors 
 👩‍💻 El Hadifi Soukaina <br>
 👨‍💻 El Guelta Mohamed-Saber <br>
 
-## 🤝 Contributions & Feedback
-🔹 Found a bug? Have suggestions? Open an issue or submit a pull request!
-🔹 Let’s improve C-Bank together! 🚀
+## 🤝 Contributions & Feedback 
+🔹 Found a bug? Have suggestions? Open an issue or submit a pull request!<br>
+🔹 Let’s improve C-Bank together! 🚀<br>
 📩 Contact us: medsaberelguelta@gmail.com
